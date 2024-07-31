@@ -24,18 +24,7 @@ This project applies deep learning models to perform sentiment analysis on custo
 - Model selection and training (e.g., CNN, LSTM)
 - Model evaluation and performance metrics
 
-## Repository Structure
-
-- **Explore a dataset of wine reviews**
-  - Contains notebooks, datasets, and analysis scripts for the wine reviews project.
-  
-- **Impact of mobile phone using statistical analysis**
-  - Contains notebooks, datasets, and analysis scripts for the mobile phone usage project.
-  
-- **Sentimental analysis using Deep Learning**
-  - Contains notebooks, datasets, and analysis scripts for the sentiment analysis project.
-
-## Author
+### Author
 
 **Talha Hussain**
 
